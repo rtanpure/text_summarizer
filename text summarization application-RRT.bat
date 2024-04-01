@@ -1,0 +1,1 @@
+streamlit run E:\text_summarization\app.py

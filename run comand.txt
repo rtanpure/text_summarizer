@@ -1,0 +1,1 @@
+streamlit run E:\Fraud_detection\app.py
